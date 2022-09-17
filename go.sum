@@ -2,3 +2,5 @@ github.com/robilaruku/go-say-hello v1.0.0 h1:PWAI6jIqjLm2ICwdgeelRTUG4B75GksbCeA
 github.com/robilaruku/go-say-hello v1.0.0/go.mod h1:Ub24Pffp8Keddnfx8V/S94O19pL6+X865md1G+nq4+E=
 github.com/robilaruku/go-say-hello v1.5.0 h1:V274JseRBX5lQDYe4oUpgCh7Dw6jwURHOVjru5ek2rc=
 github.com/robilaruku/go-say-hello v1.5.0/go.mod h1:Ub24Pffp8Keddnfx8V/S94O19pL6+X865md1G+nq4+E=
+github.com/robilaruku/go-say-hello/v2 v2.0.0 h1:Imu5dQsvbbfkzZGHyL6i1a6jLct0RoVH52LdpcgjhDQ=
+github.com/robilaruku/go-say-hello/v2 v2.0.0/go.mod h1:Y+jSAqNH1v51Th0ea41tHyvtlR8aZozypBQNgxt1w2E=
